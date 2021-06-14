@@ -8,6 +8,7 @@
 <br>
 <a href="https://leetcode.com/Aman_Malviya/"><img src="./Assets/leetcode.svg" height="30px" alt="Leetcode" /></a>
 <a style="margin-left:30px" href="https://www.linkedin.com/in/aman-malviya-5347871b1/"><img src="./Assets/linkedin.svg" height="30px" alt="LinkedIn" /></a>
+<a style="margin-left:30px" href="http://aman-malviya.netlify.com/"><img src="./Assets/web.svg" height="30px" alt="Portfolio" /></a>
 
 <br><br>
 
