@@ -14,24 +14,26 @@
 
 <h3>Languages and Tools -</h3>
 <br>
-<a href="#"><img src="./Assets/c.svg" height="30px" alt="C" /></a>
-<a href="#" style="margin-left:30px"><img src="./Assets/c++.svg" height="30px" alt="C++" /></a>
-<a href="#" style="margin-left:30px"><img src="./Assets/python.svg" height="30px" alt="Python" /></a>
-<a href="#" style="margin-left:30px"><img src="./Assets/html5.svg" height="30px" alt="HTML5" /></a>
-<a href="#" style="margin-left:30px"><img src="./Assets/css3.svg" height="30px" alt="CSS3" /></a>
+<img src="./Assets/c.svg" height="30px" alt="C" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Assets/c++.svg" height="30px" alt="C++" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Assets/python.svg" height="30px" alt="Python" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Assets/html5.svg" height="30px" alt="HTML5" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Assets/css3.svg" height="30px" alt="CSS3" />
 <br><br>
-<a href="#"><img src="./Assets/bootstrap.svg" height="30px" alt="Bootstrap" /></a>
-<a href="#" style="margin-left:30px"><img src="./Assets/git.svg" height="30px" alt="Git" /></a>
-<a href="#" style="margin-left:30px"><img src="./Assets/js.svg" height="30px" alt="Javascript" /></a>
-<a href="#" style="margin-left:30px"><img src="./Assets/nodejs.svg" height="30px" alt="Nodejs" /></a>
-<a href="#" style="margin-left:30px"><img src="./Assets/react.svg" height="30px" alt="React" /></a>
+<img src="./Assets/bootstrap.svg" height="30px" alt="Bootstrap" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Assets/git.svg" height="30px" alt="Git" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Assets/js.svg" height="30px" alt="Javascript" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Assets/nodejs.svg" height="30px" alt="Nodejs" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Assets/react.svg" height="30px" alt="React" />
 <br><br>
-<a href="#"><img src="./Assets/firebase.svg" height="30px" alt="Firebase" /></a>
-<a href="#" style="margin-left:30px"><img src="./Assets/heroku.svg" height="30px" alt="Heroku" /></a>
-<a href="#" style="margin-left:30px"><img src="./Assets/postman.svg" height="30px" alt="Postman" /></a>
-<a href="#" style="margin-left:30px"><img src="./Assets/selenium.svg" height="30px" alt="Selenium" /></a>
+<img src="./Assets/firebase.svg" height="30px" alt="Firebase" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Assets/heroku.svg" height="30px" alt="Heroku" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Assets/postman.svg" height="30px" alt="Postman" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="./Assets/selenium.svg" height="30px" alt="Selenium" />
 <br><br>
 <br><br>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman-malviya&show_icons=true&locale=en&layout=compact" alt="aman-malviya" /></p>
 <br><br>
 <p><img src="https://github-readme-stats.vercel.app/api?username=aman-malviya&show_icons=true&locale=en" alt="aman-malviya" /></p>
+<br><br>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=aman-malviya" alt="aman-malviya" /></p>
