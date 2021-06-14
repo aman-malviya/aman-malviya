@@ -19,7 +19,7 @@
 <a href="#" style="margin-left:30px"><img src="./Assets/html5.svg" height="30px" alt="HTML5" /></a>
 <a href="#" style="margin-left:30px"><img src="./Assets/css3.svg" height="30px" alt="CSS3" /></a>
 <br><br>
-< href="#"><img src="./Assets/bootstrap.svg" height="30px" alt="Bootstrap" /></a>
+<a href="#"><img src="./Assets/bootstrap.svg" height="30px" alt="Bootstrap" /></a>
 <a href="#" style="margin-left:30px"><img src="./Assets/git.svg" height="30px" alt="Git" /></a>
 <a href="#" style="margin-left:30px"><img src="./Assets/js.svg" height="30px" alt="Javascript" /></a>
 <a href="#" style="margin-left:30px"><img src="./Assets/nodejs.svg" height="30px" alt="Nodejs" /></a>
