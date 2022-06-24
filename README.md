@@ -1,20 +1,20 @@
 # Hey, I'm Aman Malviya
 
-### An engineering student pursuing B.tech from NIT Bhopal, India.
+### An engineering student pursuing Bachelor of Technology from NIT Bhopal, India.
 
 <br><br>
 
-<h3>Visit me -</h3>
+<h3>Profile</h3>
 <br>
 <a href="https://leetcode.com/Aman_Malviya/"><img src="./Assets/leetcode.svg" height="30px" alt="Leetcode" /></a>
 &nbsp;&nbsp;
-<a style="margin-left:30px" href="https://www.linkedin.com/in/aman-malviya-5347871b1/"><img src="./Assets/linkedin.svg" height="30px" alt="LinkedIn" /></a>
+<a style="margin-left:30px" href="https://www.linkedin.com/in/amanmalviya14/"><img src="./Assets/linkedin.svg" height="30px" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
-<a style="margin-left:30px" href="http://aman-malviya.netlify.com/"><img src="./Assets/web.svg" height="30px" alt="Portfolio" /></a>
+<a style="margin-left:30px" href="https://amanmalviya.site/"><img src="./Assets/web.svg" height="30px" alt="Portfolio" /></a>
 
 <br><br>
 
-<h3>Languages and Tools -</h3>
+<h3>Languages and Tools:</h3>
 <br>
 <span><img src="./Assets/c.svg" height="30px" alt="C" /></span>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
